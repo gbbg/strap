@@ -52,7 +52,7 @@ STDIN_FILE_DESCRIPTOR="0"
 # Set by web/app.rb
 # STRAP_GIT_NAME=
 # STRAP_GIT_EMAIL=
-# STRAP_GITHUB_USER=
+# STRAP_GITHUB_USER=gbbg
 # STRAP_GITHUB_TOKEN=
 STRAP_ISSUES_URL="https://github.com/mikemcquaid/strap/issues/new"
 
